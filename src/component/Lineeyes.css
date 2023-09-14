@@ -1,0 +1,14 @@
+.line{
+  background-color: black;
+  height: 3px;
+  width: 100%;
+  margin: 20px 0px;
+}
+.img4{
+    position: relative;
+    margin-top:50px;
+}
+.img5{
+    position: absolute;
+    margin-top: -50px;
+}

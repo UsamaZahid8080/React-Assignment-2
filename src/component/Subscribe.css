@@ -1,0 +1,10 @@
+.subscribe {
+    padding: 5px 80px 5px 5px;
+}
+
+.br {
+    border-top: 5px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
